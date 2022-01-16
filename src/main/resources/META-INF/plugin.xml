@@ -1,0 +1,22 @@
+<idea-plugin>
+    <id>net.arkenous.starlit-jetbrains</id>
+    <name>Starlit</name>
+    <vendor email="support@arkenous.net" url="https://twitter.com/arkenous">arkenous</vendor>
+
+    <description><![CDATA[
+    Enter short description for your plugin here.<br>
+    <em>most HTML tags may be used</em>
+    ]]></description>
+
+    <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>
